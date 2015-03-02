@@ -1,9 +1,9 @@
-# a commment, this is very important us so can read your program later.
-#anithing after the # is ignore by ruby.
+# a comment, this is very important to us so can read your program later.
+#anything after the # is ignored by ruby.
 
-puts " I could have code like this." #and the commnent after is ignore
+puts " I could have code like this." #and the commnent after is ignored
 
 #you can also use a commnent to "disable" or comment out a piece of code :
-#puts "this wont run"
+#puts "this won't run"
 
 puts "this will run."
